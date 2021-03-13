@@ -7,8 +7,9 @@ Create an ASP.NET Core application with an EF Core Database that allows the user
 1. Create an ASP.NET Core application with `dotnet new webapp`.
 2. Bring in EF Core support with the appropriate dotnet commands.
 3. Create a Models folder for the entity class and database context.
-       * Implement the database context as needed in an ASP.NET Core app
-       * Implement the entity class `Movie.cs`. It should have the following properties:
+
+      * Implement the database context as needed in an ASP.NET Core app
+      * Implement the entity class `Movie.cs`. It should have the following properties:
   
   | Data Type     | Property Name | Data Validation |
   | ------------- | ------------- | --------------- |
