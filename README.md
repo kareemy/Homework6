@@ -12,5 +12,12 @@ Create an ASP.NET Core application with an EF Core Database that allows the user
   
   | Data Type     | Property Name | Data Validation |
   | ------------- | ------------- | --------------- |
-  | int           | MovieID       | Maximum length = 60, Minimum Length = 3, Required |
-  | string        | Title         | Hi |
+  | int           | MovieID       |  |
+  | string        | Title         | Maximum length = 60, Minimum Length = 3, Required |
+  | DateTime      | ReleaseDate   | Display as "Release Date", DataType = DataType.Date |
+  | string        | Genre         | Maximum length = 30 |
+  | decimal       | Price         | Range from 1 to 100, DataType = DataType.Currency |
+  | string        | Rating        | Maximum length = 5, Required |
+
+4. Use dependency injection to register the database context.
+5. Use migrations to create the database.
