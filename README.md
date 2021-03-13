@@ -38,10 +38,7 @@ Create an ASP.NET Core application with an EF Core Database that allows the user
 **Push all your changes to GitHub when you are finished with the commit message "Ready for Grading".**
 
 
-![Figure 1](https://i.imgur.com/SnGPjXq.png)Figure 1: Details Page Listing Courses & Delete Button
+![Figure 1](https://i.imgur.com/jEkd9RL.png)Figure 1: Sample Index Razor Page
 
 
-![Figure 2](https://i.imgur.com/xKhC5uF.png)Figure 2: Delete Course Page
-
-
-![Figure 3](https://i.imgur.com/P2B75to.png)Figure 2: Create Course Page
+![Figure 2](https://i.imgur.com/sxX2C8z.png)Figure 2: Sample Create Razor Page
