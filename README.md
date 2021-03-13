@@ -12,7 +12,5 @@ Create an ASP.NET Core application with an EF Core Database that allows the user
   
   | Data Type     | Property Name | Data Validation |
   | ------------- | ------------- | --------------- |
-  | int           | MovieID       | Maximum length = 60
-                                    Minimum Length = 3
-                                    Required
-  | string        | Title  | Hi |
+  | int           | MovieID       | Maximum length = 60, Minimum Length = 3, Required |
+  | string        | Title         | Hi |
